@@ -9,4 +9,4 @@ def school_age_calculator(age,name):
         print("You are a big kid, {name},is only {age} years old")
 
 
-school_age_calculator(6, "John")
+school_age_calculator(7, "John")
